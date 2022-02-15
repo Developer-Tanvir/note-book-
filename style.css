@@ -1,0 +1,35 @@
+nav a{
+  color: #F0F0F0 !important;
+}
+.bg-light {
+  --bs-bg-opacity: 1;
+  background-color: #21325E !important;
+  
+}
+.h-content{
+  display: flex;
+
+}
+.navbar-brand{
+  flex: 12;
+}
+h1{
+  text-transform: uppercase;
+  color: #3E497A;
+}
+.form-group{
+  width: 100%;
+}
+textarea{
+  width: 100%;
+  border: 1px solid #3E497A;
+  outline: none;
+  border-radius: 5px;
+}
+.btn-success{
+  background-color: #3E497A;
+  text-transform: uppercase;
+}
+#notes{
+  justify-content: space-between;
+}
